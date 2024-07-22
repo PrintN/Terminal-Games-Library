@@ -1,7 +1,5 @@
-<img src="https://github.com/user-attachments/assets/3ddaf572-c66a-4363-954f-ef213130d571" alt="TerminalGames" height="600" width="1000" />
-
 # Terminal Games Library
-
+<img src="https://github.com/user-attachments/assets/3ddaf572-c66a-4363-954f-ef213130d571" alt="TerminalGames" height="600" width="1000" />
 Welcome to the **Terminal Games Library**! This repository is a collection of classic terminal-based games implemented in Python. It's designed to provide a simple, fun way to play games directly from your terminal or command line interface.
 
 ## Games Overview
