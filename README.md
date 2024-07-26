@@ -16,6 +16,8 @@ The repository is organized into different folders, each containing a unique gam
 
 - **[ProTyper](ProTyper/)**
 
+- **[Hangman](Hangman/)**
+
 ## Do You Want to Add a Terminal Game?
 
 We welcome contributions to expand our collection of terminal games. If you have a game idea or a completed game that you'd like to add to this repository, please follow the guidelines below:
@@ -41,11 +43,15 @@ To get started with any of the games, follow these steps:
 
    ```bash
    git clone https://github.com/PrintN/Terminal-Games-Library.git
-3. **Navigate to the game directory you want to play. For example, to play the Snake game**
+3. **Install packages:**
+
+   ```bash
+   pip install -r requirements.txt
+4. **Navigate to the game directory you want to play. For example, to play the Snake game**
 
     ```bash
    cd Terminal-Games-Library/Snake
-4. **Run the game**
+5. **Run the game**
 
     ```bash
    python Snake.py
