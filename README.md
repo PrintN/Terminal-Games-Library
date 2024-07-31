@@ -8,6 +8,8 @@ The repository is organized into different folders, each containing a unique gam
 
 - **[Snake](Snake/)**
 
+- **[Sudoku](Sudoku/)**
+
 - **[Casino](Casino/)**
 
 - **[GuessTheNumber](GuessTheNumber/)**
