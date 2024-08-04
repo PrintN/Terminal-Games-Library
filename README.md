@@ -6,19 +6,21 @@ Welcome to the **Terminal Games Library**! This repository is a collection of cl
 
 The repository is organized into different folders, each containing a unique game or set of games. Here's a quick overview of the games folders:
 
-- **[Snake](Snake/)**
-
-- **[Sudoku](Sudoku/)**
-
 - **[Casino](Casino/)**
 
 - **[GuessTheNumber](GuessTheNumber/)**
 
-- **[TicTacToe](TicTacToe/)**
+- **[Hangman](Hangman/)**
 
 - **[ProTyper](ProTyper/)**
 
-- **[Hangman](Hangman/)**
+- **[Rock Paper Scissors](RockPaperScissors/)**
+
+- **[Snake](Snake/)**
+
+- **[Sudoku](Sudoku/)**
+
+- **[Tic Tac Toe](TicTacToe/)**
 
 ## Do You Want to Add a Terminal Game?
 
