@@ -6,21 +6,23 @@ Welcome to the **Terminal Games Library**! This repository is a collection of cl
 
 The repository is organized into different folders, each containing a unique game or set of games. Here's a quick overview of the games folders:
 
-- **[Casino](Casino/)**
+- **[Casino](Games/Casino/)**
 
-- **[GuessTheNumber](GuessTheNumber/)**
+- **[GuessTheNumber](Games/GuessTheNumber/)**
 
-- **[Hangman](Hangman/)**
+- **[Hangman](Games/Hangman/)**
 
-- **[ProTyper](ProTyper/)**
+- **[ProTyper](Games/ProTyper/)**
 
-- **[Rock Paper Scissors](RockPaperScissors/)**
+- **[Rock Paper Scissors](Games/RockPaperScissors/)**
 
-- **[Snake](Snake/)**
+- **[Snake](Games/Snake/)**
 
-- **[Sudoku](Sudoku/)**
+- **[Sudoku](Games/Sudoku/)**
 
-- **[Tic Tac Toe](TicTacToe/)**
+- **[Tic Tac Toe](Games/TicTacToe/)**
+
+- **[Wordle](Games/Wordle/)**
 
 ## Getting Started
 
@@ -41,7 +43,7 @@ To get started with any of the games, follow these steps:
 4. **Navigate to the game directory you want to play. For example, to play the Snake game**
 
     ```bash
-   cd Terminal-Games-Library/Snake
+   cd Terminal-Games-Library/Games/Snake/
 5. **Run the game**
 
     ```bash
