@@ -22,19 +22,6 @@ The repository is organized into different folders, each containing a unique gam
 
 - **[Tic Tac Toe](TicTacToe/)**
 
-## Do You Want to Add a Terminal Game?
-
-We welcome contributions to expand our collection of terminal games. If you have a game idea or a completed game that you'd like to add to this repository, please follow the guidelines below:
-
-1. **Create a New Folder:** Add a new folder for your game in the root directory of the repository.
-2. **Add Your Game Script:** Place your game script inside the new folder.
-3. **Write a README:** Include a `README.md` file in your game’s folder with instructions on how to play your game.
-4. **Create a Contribution Issue:** Open an issue in the repository to describe the game you're adding and link to the new folder and README.
-
-If you need any help or have questions about adding a game, feel free to ask for guidance in the issues section or contact the repository maintainers.
-
-Thank you for contributing and helping to grow the Terminal Games Library!
-
 ## Getting Started
 
 To get started with any of the games, follow these steps:
