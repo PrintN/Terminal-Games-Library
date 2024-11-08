@@ -24,6 +24,8 @@ The repository is organized into different folders, each containing a unique gam
 
 - **[Wordle](Games/Wordle/)**
 
+- **[2048](Games/2048/)**
+
 ## Getting Started
 
 To get started with any of the games, follow these steps:
